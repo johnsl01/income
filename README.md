@@ -13,5 +13,30 @@ Multiple Regression with Categorical Variables
 
 https://psychstat3.missouristate.edu/Documents/MultiBook3/Mlt07.htm
 
+Classification vs. Prediction
+
+https://www.fharrell.com/post/classification/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
