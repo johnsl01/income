@@ -17,14 +17,13 @@ Classification vs. Prediction
 
 https://www.fharrell.com/post/classification/
 
+Category Encoders
 
+http://contrib.scikit-learn.org/categorical-encoding/index.html
 
+James-Stein Encoder
 
-
-
-
-
-
+http://contrib.scikit-learn.org/categorical-encoding/jamesstein.html
 
 
 
