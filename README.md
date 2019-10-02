@@ -21,6 +21,10 @@ https://www.fharrell.com/post/classification/
 
 https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
 
+Choosing the Correct Type of Regression Analysis
+
+https://statisticsbyjim.com/regression/choosing-regression-analysis/
+
 Category Encoders
 
 http://contrib.scikit-learn.org/categorical-encoding/index.html
