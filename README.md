@@ -17,6 +17,10 @@ Classification vs. Prediction
 
 https://www.fharrell.com/post/classification/
 
+7 Regression Techniques you should know
+
+https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+
 Category Encoders
 
 http://contrib.scikit-learn.org/categorical-encoding/index.html
